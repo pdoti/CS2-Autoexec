@@ -2,6 +2,7 @@
 echo "Optimised autoexec.cfg loaded – top‑UK coach edition"
 
 // === Mouse & Sensitivity ===
+
 m_rawinput "1"                    //Enable Raw Input for perfect precision (Raw input is unavailable on OSX)
 m_mouseaccel2 "0"                 //Disables windows mouse acceleration initial threshold, safety precaution
 m_mouseaccel1 "0"                 //Disables windows mouse acceleration initial threshold, safety precaution
@@ -11,6 +12,7 @@ sensitivity "2.13"                //Adjust to preference //DPI 400
 zoom_sensitivity_ratio "0.8189330271"
 
 // === Viewmodel ===
+
 viewmodel_fov "68"
 viewmodel_offset_x "2"    //Changes viewmodel view in X scale (-2 to 2.5)
 viewmodel_offset_y "0"    //Changes viewmodel view in Y scale (-2 to 2)
